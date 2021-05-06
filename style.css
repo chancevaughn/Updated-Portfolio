@@ -1,0 +1,28 @@
+#menu {
+    height: 30% !important;
+}
+#logo {
+    height: 100% !important;
+    padding-left: 10px !important;
+}
+.no-shadows {
+    box-shadow: none!important;
+}
+#intro p {
+    font-size:xx-large;
+}
+#about-me p {
+    font-size:large;
+}
+#about-me {
+    border-bottom: 2px black !important;
+}
+#mid-logo {
+    width: 100px;
+}
+.round-corner {
+    border-radius: 1%!important;
+}
+.hex {
+    clip-path: polygon(50% 0, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%)  
+}
