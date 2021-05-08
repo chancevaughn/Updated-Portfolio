@@ -19,6 +19,10 @@ In addition, each peice of work has a corresponding deployed link and gitHub lin
 
 Lastly, the correspoding links for the contact section are live. Meaning that when you click on them they will begin an action for the desired form of communication (i.e a phone call for the phone icon).
 
+## Deployed Link 
+
+https://chancevaughn.github.io/Updated-Portfolio/
+
 ## Contributors
 
 Chance V. Robinson
